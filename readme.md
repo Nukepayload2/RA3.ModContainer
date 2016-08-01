@@ -5,6 +5,8 @@
 ####2. 把你下载好的Mod解压到你的硬盘的任意位置。把 链接到文档文件夹（管理员）.vbs, 链接到文档文件夹.vbs 和 License.txt 下载到同一目录。
 ####3. 把相应的Mod文件夹拖放到 链接到文档文件夹（管理员）.vbs 上，按提示操作。
 ####4. 用-ui参数打开红警3试试吧！注意：一旦创建链接，就不要对存放Mod的文件夹的结构进行任何更改（比如说，你不能移动和重命名，更不能删除），否则游戏会无法启动。
+##操作成功后的截图:
+![image](https://github.com/Nukepayload2/RA3.ModContainer/raw/master/example.PNG)
 ##遇到问题怎么办？
 ####在贴吧@Nukepayload2，并附带Ra3 Mod脚本的问题描述
 ####或者直接在 https://github.com/Nukepayload2/RA3.ModContainer/issues 发表问题
