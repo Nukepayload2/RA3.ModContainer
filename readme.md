@@ -1,0 +1,2 @@
+#ModContainer
+把红警3庞大的Mod放到其它文件夹，然后链接到红警3的Mods目录
