@@ -8,7 +8,7 @@
 ##操作成功后的截图:
 ![image](https://github.com/Nukepayload2/RA3.ModContainer/raw/master/example.PNG)
 ##遇到问题怎么办？
-####在贴吧@Nukepayload2，并附带Ra3 Mod脚本的问题描述
+####在贴吧@Nukepayload2，并附带Ra3 Mod容器脚本的问题描述
 ####或者直接在 https://github.com/Nukepayload2/RA3.ModContainer/issues 发表问题
 ##想做出贡献吗？
 ####我欢迎大家发送有价值的 issue 或 pull request
