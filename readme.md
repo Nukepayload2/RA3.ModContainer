@@ -3,13 +3,13 @@
 
 ## 安装要求
 支持的操作系统：
-- Windows 10 版本 1507, 1511, 1607
+- Windows 10 版本 1507, 1511, 1607, 1703, 1709, 1803, 1809, 1903
 - Windows 8.1
 - Windows 8
 - Windows 7 sp1
 
 ### 支持的体系结构：
-x86, x64
+x86, x64, ARM64
 
 ## 使用说明：
 
@@ -22,7 +22,7 @@ x86, x64
 ![image](https://github.com/Nukepayload2/RA3.ModContainer/raw/master/example.PNG)
 
 ## 遇到问题怎么办？
-在贴吧@Nukepayload2，并附带Ra3 Mod容器脚本的问题描述
+在贴吧 @Nukepayload2 ，并附带Ra3 Mod容器脚本的问题描述
 
 或者直接在 https://github.com/Nukepayload2/RA3.ModContainer/issues 发表问题
 
